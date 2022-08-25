@@ -3,7 +3,7 @@ const chalk = require("chalk")
 
 global.available = true
 global.autoReadGc = true
-global.autoReadAll = false
+global.autoReadAll = true
 global.antitags = true
 
 
@@ -12,10 +12,10 @@ global.OwnerNumber = ['6285799227173']
 global.ownertag = ['6285799227173']
 global.BotName = "BotMee-MD"
 global.packname = "BotMee-MD"
-global.author = "Call Me Emon"
+global.author = "By: Emon"
 global.OwnerName = "Emon"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.BotSourceCode = "https://github.com/EmonCme/Miku-MD"
+global.SupportGroupLink = "https://chat.whatsapp.com/FAoXe5x0DMxBN6gKCRCDOM"
 global.sessionName = "session"
 
 // Prefix //
@@ -27,7 +27,7 @@ global.location = "West Bengal, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/EmonCme"
 global.lolhuman = "KaysaS"
 
 
